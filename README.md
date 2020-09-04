@@ -1,5 +1,6 @@
 # CatatanKecilku
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)<br>
+![GitHub](https://img.shields.io/github/license/dwiyantech/catatankecilku?color=blue&style=flat-square)
 ---
 ***PLUGIN USED***
 - Glide
