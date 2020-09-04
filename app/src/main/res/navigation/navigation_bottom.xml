@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/nav_home"
+    android:id="@+id/navigation_bottom">
+
+    <fragment
+        android:id="@+id/nav_home"
+        tools:layout="@layout/home_fragment"
+        android:name="com.dwiyanstudio.catatankecilku.ui.HomeFragment"
+        android:label="@string/home_nav"
+        />
+
+    <fragment
+        android:id="@+id/nav_list"
+        tools:layout="@layout/list_notes"
+        android:name="com.dwiyanstudio.catatankecilku.ui.NoteListFragment"
+        android:label="@string/list_nav"
+        />
+
+    <fragment
+        android:id="@+id/nav_star"
+        tools:layout="@layout/fav_note"
+        android:name="com.dwiyanstudio.catatankecilku.ui.FavListFragment"
+        android:label="favorite"/>
+
+</navigation>

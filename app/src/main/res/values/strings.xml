@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Catatan kecilku</string>
+    <string name="number_note">00</string>
+    <string name="total_best">Catatan Favoritmu</string>
+    <string name="total_catatan">Total Catatanmu</string>
+    <string name="halo_apakabar">Halo, Apa kabar ?</string>
+    <string name="quote_oftheyear">Catatlah hari-hari dimana kamu merasa bahagia , agar bisa mengenang kebahagiaan tersebut</string>
+    <string name="recent">Baru Ditambahkan</string>
+    <string name="todo">TODO</string>
+    <string name="home_nav">Beranda</string>
+    <string name="list_nav">Catatanmu</string>
+    <string name="fav_note">Favorit</string>
+    <string name="judul_list">Semua Catatanmu</string>
+    <string name="search">Cari Catatanmu</string>
+    <string name="catatan_favoritmu">Semua Catatan Favoritmu</string>
+    <string name="judul_catatan">Ini Adalah Judul Catatan</string>
+    <string name="judul_hint">Judul Catatanmu</string>
+
+</resources>
