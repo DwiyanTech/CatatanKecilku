@@ -6,6 +6,9 @@
 - Glide
 - RXJava2
 - Room Database
+---
+***Architectrue***
+- MVVM ( Model View ViewModel )
 ## What's New ?
 - Bug Fixes Size For Favourite Notes 
 ---
